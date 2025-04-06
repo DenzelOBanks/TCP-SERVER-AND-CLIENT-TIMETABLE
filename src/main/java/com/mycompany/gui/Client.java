@@ -1,4 +1,4 @@
-package com.mycompany.gui;
+package com.mycompany.gui;//test
 
 import java.io.BufferedReader;
 import java.io.IOException;
